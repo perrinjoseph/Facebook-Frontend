@@ -1,0 +1,10 @@
+.app {
+  background-color: rgb(240, 242, 243);
+}
+
+.app__body {
+  display: flex;
+  justify-content: space-between;
+  height: 100em;
+  margin-top: 25px;
+}

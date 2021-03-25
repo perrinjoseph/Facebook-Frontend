@@ -1,0 +1,29 @@
+.sponsor__ad {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.sponsor__image {
+  height: 60px;
+  width: 95px;
+  border-radius: 10px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.sponsor__info {
+  margin: 20px;
+  position: relative;
+  align-items: center;
+}
+
+.sponsor__info > h4 {
+  font-weight: normal;
+}
+.sponsor__info > a {
+  color: grey;
+  text-decoration: none;
+  font-size: smaller;
+}

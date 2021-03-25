@@ -1,0 +1,8 @@
+.yourPages {
+  border-bottom: 1px solid lightgray;
+  padding: 30px 0px;
+}
+.yourPages > h3 {
+  font-weight: 600;
+  color: gray;
+}

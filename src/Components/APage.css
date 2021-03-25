@@ -1,0 +1,19 @@
+.aPage {
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.aPage__info {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.aPage__options {
+  cursor: pointer;
+  color: gray;
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.aPage__options > p {
+  padding-left: 10px;
+}

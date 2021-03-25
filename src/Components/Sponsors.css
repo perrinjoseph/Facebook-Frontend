@@ -1,0 +1,9 @@
+.sponsors {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+}
+
+.sponsors > h3 {
+  font-weight: 600;
+  color: gray;
+}

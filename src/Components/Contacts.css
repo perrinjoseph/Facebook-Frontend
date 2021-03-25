@@ -1,0 +1,20 @@
+.contacts__headingItems {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px;
+  padding-top: 5px;
+}
+
+.contacts__headingItems > h3 {
+  color: gray;
+  font-weight: 600;
+}
+
+.contacts__icons {
+  color: rgb(116, 114, 114);
+  display: flex;
+}
+
+.contacts__icon {
+  margin-left: 50px;
+}
